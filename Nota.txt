@@ -1,0 +1,1 @@
+Antes de começar o projeto, execute npm install no Terminal, para que as dependências do Node sejam baixadas ;)
